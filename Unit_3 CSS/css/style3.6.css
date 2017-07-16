@@ -5,3 +5,11 @@
 body {
     font-family: Itim;
 }
+@font-face {
+    font-family: Chonburi;
+    src: url('../fonts/chonburi.ttf') format('truetype');
+}
+@font-face {
+    font-family: Itim;
+    src: url('../fonts/itim.ttf') format('truetype');
+}
